@@ -1,7 +1,7 @@
 Common
 =====
 
-This role installs and configures some common system packages that are useful on all Debian/Ubuntu systems.
+**DEPRECATED** Use `yauh.base` instead.
 
 Requirements
 ------------
